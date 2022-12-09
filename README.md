@@ -12,8 +12,8 @@ Actually:
 [![img_contact](./ressources/globe-light.svg)](https://github.com/KalvinVilla#gh-light-mode-only)
 [![img_contact](./ressources/globe-dark.svg)](https://github.com/KalvinVilla#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./ressources/linkedin-light.svg)](https://www.linkedin.com/in/kalvin-villa/#gh-light-mode-only)
-[![img_contact](./ressources/linkedin-dark.svg)](https://www.linkedin.com/in/kalvin-villa/#gh-dark-mode-only)
+[![img_contact](./ressources/linkedin-light.svg)](https://fr.linkedin.com/in/kalvin-villa-3045491b5)
+[![img_contact](./ressources/linkedin-dark.svg)](https://fr.linkedin.com/in/kalvin-villa-3045491b5)
 
 ### Languages and Tools:
 
