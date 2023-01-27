@@ -1,7 +1,7 @@
 # Kalvin Villa (=Kavika)
 I'm Kalvin from France, FullStack developper and system admin, 
 
-Actually:
+Currently:
 
 - 🔭 I'm currently work for SA Eaux Mineral d'Evian as SysAdmin.
 - 📫 I’m learning at Tetras
