@@ -4,7 +4,7 @@ I'm Kalvin from France, FullStack developper and system admin,
 Currently:
 
 - 🔭 I'm currently work for SA Eaux Mineral d'Evian as SysAdmin.
-- 📫 I’m learning at Tetras
+- 📫 I’m learning at Tetras as Administrator System and Security of Networks
 
 
 ### Connect with me:
