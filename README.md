@@ -3,7 +3,7 @@ I'm Kalvin from France, FullStack developper and system admin,
 
 Currently:
 
-- 🔭 I'm currently work for Evian bottling site as SysAdmin and Dev.
+- 🔭 I'm currently working for Evian bottling site as SysAdmin and Dev.
 
 
 ### Connect with me:
